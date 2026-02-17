@@ -12,7 +12,7 @@
 
 </div>
 
-<p align="center"><strong>📧 Contact:</strong> <a href="mailto:jhyuan.cs@gmail.com">jhyuan.cs@gmail.com</a> 
+<p align="center"><strong>📧 Contact:</strong> <a href="mailto:jamse_yuan@163.com">jamse_yuan@163.com</a> 
 <p align="center">
 <img src="./assets/Deepfind-GGSM.png" align="center" width="90%">
 </p>
