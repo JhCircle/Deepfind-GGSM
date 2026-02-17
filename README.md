@@ -8,7 +8,7 @@
 
 [![Paper](https://img.shields.io/badge/arXiv-2512.01282-b31b1b.svg)](https://arxiv.org/abs/2512.01282)
 ![GitHub Repo stars](https://img.shields.io/github/stars/JhCircle/Deepfind-GGSM?style=social)
-[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-find--embedding-orange.svg)](https://huggingface.co/datasets/Jhcircle/KadiaBench)
+[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-daily--paper-orange.svg)](https://huggingface.co/datasets/Jhcircle/KadiaBench)
 
 </div>
 
