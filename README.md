@@ -6,9 +6,11 @@
 
 <h4>🔍 We introduce <strong>find-embedding</strong> with <strong>GG-SM</strong>: enabling decoder-only LLMs to holistically perceive users via adaptive attention masking 🎯</h4>
 
-[![Paper](https://img.shields.io/badge/arXiv-2512.01282-b31b1b.svg)](https://arxiv.org/abs/2512.01282)
+[![Paper](https://img.shields.io/badge/arXiv-2602.10622-b31b1b.svg)](https://arxiv.org/abs/2602.10622)
 ![GitHub Repo stars](https://img.shields.io/github/stars/JhCircle/Deepfind-GGSM?style=social)
-[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-daily--paper-orange.svg)](https://huggingface.co/datasets/Jhcircle/KadiaBench)
+[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-daily--paper-orange.svg)](https://huggingface.co/papers/2602.10622)
+[![Ant Group](https://img.shields.io/badge/Ant%20Group-🐜-blue.svg)](https://www.antgroup.com)
+
 
 </div>
 
@@ -21,7 +23,7 @@
 
 ## 🔥 News
 * `2026.02` 🎉 Our paper [*How Do Decoder-Only LLMs Perceive Users?*](https://arxiv.org/abs/2512.01282) has been released on arXiv — check it out now!  
-  > 💻 **Code is available at [https://github.com/JhCircle/Deepfind-GGSM](https://github.com/JhCircle/Deepfind-GGSM)**
+  > 💻 **Code demo coming soon — the methodology will be open-sourced built with public instruction tuning dataset [alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca). Due to privacy, proprietary company datasets will not be shared. Stay tuned!**
 
 ---
 
