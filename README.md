@@ -22,7 +22,7 @@
 ---
 
 ## 🔥 News
-* `2026.02` 🎉 Our paper [*How Do Decoder-Only LLMs Perceive Users?*](https://arxiv.org/abs/2512.01282) has been released on arXiv — check it out now!  
+* `2026.02` 🎉 Our paper [*How Do Decoder-Only LLMs Perceive Users?*](https://arxiv.org/abs/2602.10622) has been released on arXiv — check it out now!  
   > 💻 **Code demo coming soon — the methodology will be open-sourced built with public instruction tuning dataset [alpaca](https://huggingface.co/datasets/tatsu-lab/alpaca). Due to privacy, proprietary company datasets will not be shared. Stay tuned!**
 
 ---
