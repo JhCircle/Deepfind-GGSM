@@ -36,6 +36,13 @@ If you find our work useful for your research, please kindly cite our paper as f
   journal={arXiv preprint arXiv:2602.10622},
   year={2026}
 }
+
+@article{yuan2026query,
+  title={Query as Anchor: Scenario-Adaptive User Representation via Large Language Model},
+  author={Yuan, Jiahao and Xu, Yike and Wen, Jinyong and Wang, Baokun and Gao, Ziyi and Lin, Xiaotong and Liu, Yun and Fu, Xing and Cheng, Yu and Liu, Yongchao and others},
+  journal={arXiv preprint arXiv:2602.14492},
+  year={2026}
+}
 ```
 ## ⚖️ License
 This project is licensed under the **Apache License Version 2.0**. See the [LICENSE](./LICENSE) file for details.
