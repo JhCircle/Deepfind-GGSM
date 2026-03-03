@@ -27,5 +27,15 @@
 
 ---
 
+## 📚 Citation
+If you find our work useful for your research, please kindly cite our paper as follows:
+```python
+@article{yuan2026decoder,
+  title={How Do Decoder-Only LLMs Perceive Users? Rethinking Attention Masking for User Representation Learning},
+  author={Yuan, Jiahao and Xu, Yike and Wen, Jinyong and Wang, Baokun and Chen, Yang and Lin, Xiaotong and Huang, Wuliang and Gao, Ziyi and Fu, Xing and Cheng, Yu and others},
+  journal={arXiv preprint arXiv:2602.10622},
+  year={2026}
+}
+```
 ## ⚖️ License
 This project is licensed under the **Apache License Version 2.0**. See the [LICENSE](./LICENSE) file for details.
