@@ -22,7 +22,19 @@
 ---
 
 ## 🔥 News
-*  `2026.02` 🎉 Our [GGSM](https://arxiv.org/abs/2602.10622) work was highlighted in a report (FA0042) produced by the [FARS](https://analemma.ai/fars) automated research system. A great honor to see the work being followed by research AGI — truly witnessing history.
+*  `2026.02` 🎉 Our [GGSM](https://arxiv.org/abs/2602.10622) work was highlighted in a report (FA0042) produced by the [FARS](https://analemma.ai/fars) automated research system. A great honor to see our work being followed by research AGI 🤗 — truly witnessing history.
+- <details>
+  <summary><strong>🖼️ Click to view "Our GG-SM work was followed by research AGI, Amazing! " introducted by <a href="https://mp.weixin.qq.com/s/gT6sN0a0Wir1Yh1JHlieOQ">机器之心</strong></summary>
+  <br>
+  <div align="center">
+    <em>Our [GGSM](https://arxiv.org/abs/2602.10622) work was followed by research AGI, Amazing! </em><br><br>
+    <img src="assets/fa0042-机器之心.jpg" alt="fa0042-机器之心r" width="40%">
+    <br><br>
+    <a href="assets/fa0042-机器之心.jpg" target="_blank">📄 Download PNG</a>
+  </div>
+  <br>
+</details>
+
 *  `2026.02` 🎉 Our paper [*How Do Decoder-Only LLMs Perceive Users?*](https://arxiv.org/abs/2602.10622) has been released on arXiv — check it out now!  
   > 💻 **Public code demo available now !**
 
