@@ -22,7 +22,8 @@
 ---
 
 ## 🔥 News
-* `2026.02` 🎉 Our paper [*How Do Decoder-Only LLMs Perceive Users?*](https://arxiv.org/abs/2602.10622) has been released on arXiv — check it out now!  
+*  `2026.02` 🎉 Our [GGSM](https://arxiv.org/abs/2602.10622) work was highlighted in a report (FA0042) produced by the [FARS](https://analemma.ai/fars) automated research system. A great honor to see the work being followed by research AGI — truly witnessing history.
+*  `2026.02` 🎉 Our paper [*How Do Decoder-Only LLMs Perceive Users?*](https://arxiv.org/abs/2602.10622) has been released on arXiv — check it out now!  
   > 💻 **Public code demo available now !**
 
 ---
