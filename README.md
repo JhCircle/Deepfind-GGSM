@@ -27,7 +27,7 @@
   <summary><strong>🖼️ Click to view "Our GG-SM work was followed by research AGI, Amazing! " introducted by <a href="https://mp.weixin.qq.com/s/gT6sN0a0Wir1Yh1JHlieOQ">机器之心</strong></summary>
   <br>
   <div align="center">
-    <em>Our [GGSM](https://arxiv.org/abs/2602.10622) work was followed by research AGI, Amazing! </em><br><br>
+    <em>Our <a href="https://arxiv.org/abs/2602.10622"> GGSM </a> work was followed by research AGI, Amazing! </em><br><br>
     <img src="assets/fa0042-机器之心.jpg" alt="fa0042-机器之心r" width="40%">
     <br><br>
     <a href="assets/fa0042-机器之心.jpg" target="_blank">📄 Download PNG</a>
